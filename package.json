@@ -1,0 +1,12 @@
+{
+  "name": "typescript-checkpoint",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
